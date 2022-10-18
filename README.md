@@ -1,3 +1,2 @@
 # ed-tech-bootstrap
-this is my learning and for practice 
-git test
+this is my learning and for practice
