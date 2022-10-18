@@ -6,6 +6,18 @@ footer a{
     text-decoration: none;
     color: gainsboro;
 }
-.social a{
-    color: white;
+.fa-facebook{
+    color: #3b5998;
+}
+.fa-twitter{
+    color: #1DA1F2;
+}
+.fa-linkedin{
+    color: #0072b1;
+}
+.fa-skype{
+    color: #00aff0;
+}
+.fa-youtube{
+    color: #c4302b;
 }
