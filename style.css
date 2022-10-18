@@ -6,6 +6,9 @@ footer a{
     text-decoration: none;
     color: gainsboro;
 }
+.social a{
+    margin: 0 5px;
+}
 .fa-facebook{
     color: #3b5998;
 }
